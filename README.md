@@ -1,215 +1,199 @@
-# 📄 Resume Builder
+<div align="center">
 
-### Create a Professional Resume Without Login
+# 📄 RESUME BUILDER
 
-**Resume Builder** is a simple and user-friendly website that allows both **freshers and experienced professionals** to create professional resumes quickly and easily.
+### ✨ Build Your Professional Resume Easily ✨
 
-No account or login is required. Just enter your details, build your resume, and get your resume ready to use.
+<p>
+  <img src="https://img.shields.io/github/stars/OWNER/REPOSITORY?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/forks/OWNER/REPOSITORY?style=for-the-badge&color=green">
+  <img src="https://img.shields.io/github/license/OWNER/REPOSITORY?style=for-the-badge&color=orange">
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=RESUME%20BUILDER&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-## 🌟 About the Project
-
-Creating a professional resume can be difficult, especially for students and freshers who are creating their first resume.
-
-**Resume Builder** makes this process easier by providing a simple web interface where users can enter their information and generate a structured resume.
-
-The website is designed for:
-
-* 🎓 Freshers
-* 💼 Experienced professionals
-* 👨‍🎓 Students
-* 👩‍💻 Job seekers
-* 🚀 Anyone who wants to create a resume quickly
+</div>
 
 ---
 
-## ✨ Key Features
+# 📄 About Resume Builder
 
-* 📝 Create a resume from scratch
-* 🎓 Suitable for **freshers**
-* 💼 Suitable for **experienced professionals**
-* 🚫 **No login required**
-* ⚡ Simple and easy-to-use interface
-* 👤 Enter personal information
-* 🎓 Add educational qualifications
-* 💼 Add work experience
-* 🛠️ Add skills
-* 🚀 Add projects
-* 🏆 Add achievements and other details
-* 📄 Generate a professional resume
-* 🌐 Completely web-based
+**Resume Builder** is a simple and user-friendly web application designed to help users create professional resumes quickly and easily.
+
+The platform can be used by both **freshers and experienced professionals**.
+
+✨ The best part?
+
+> 🚫 **No Login Required!**
+
+Users can directly open the website, enter their details, and create their resume without creating an account.
 
 ---
 
-## 🖥️ How It Works
+# ✨ Features
+
+* 👤 Create a resume without login
+* 🎓 Suitable for Freshers
+* 💼 Suitable for Experienced Professionals
+* 📝 Enter Personal Details
+* 🎓 Add Education Details
+* 💻 Add Skills
+* 🚀 Add Projects
+* 💼 Add Work Experience
+* 🏆 Add Achievements
+* 📄 Generate Professional Resume
+* 🎨 Clean & Simple Interface
+* 📱 User-Friendly Website
+* ⚡ Fast and Easy to Use
+* 🌐 Web-Based Application
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,php,git,vscode"/>
+
+</p>
+
+### Technologies Used
+
+| Technology | Purpose                     |
+| ---------- | --------------------------- |
+| 🌐 HTML    | Website Structure           |
+| 🎨 CSS     | Website Design & Styling    |
+| 🐘 PHP     | Backend & Resume Generation |
+| 🔧 Git     | Version Control             |
+| 💻 VS Code | Development Environment     |
+
+---
+
+# 🧑‍🎓 For Freshers
+
+Resume Builder helps students and freshers create their first professional resume.
+
+Users can add:
+
+* 🎓 Education
+* 💻 Technical Skills
+* 🚀 Academic Projects
+* 🏆 Achievements
+* 📜 Certifications
+* 👤 Personal Information
+
+---
+
+# 💼 For Experienced Professionals
+
+Experienced users can create resumes by adding their professional information.
+
+Users can include:
+
+* 🏢 Company Name
+* 💼 Job Position
+* 📅 Work Experience
+* 🛠️ Professional Skills
+* 🚀 Projects
+* 🏆 Achievements
+* 🎓 Education
+* 📜 Certifications
+
+---
+
+# 🔐 No Login Required
+
+One of the main features of this project is that **no registration or login is required**.
 
 ```text
-            ┌─────────────────────┐
-            │   Open the Website  │
-            └──────────┬──────────┘
-                       │
-                       ▼
-            ┌─────────────────────┐
-            │  Enter Your Details │
-            └──────────┬──────────┘
-                       │
-                       ▼
-            ┌─────────────────────┐
-            │   Add Education     │
-            │   Skills & Projects │
-            │   Experience        │
-            └──────────┬──────────┘
-                       │
-                       ▼
-            ┌─────────────────────┐
-            │   Create Resume     │
-            └──────────┬──────────┘
-                       │
-                       ▼
-            ┌─────────────────────┐
-            │ Professional Resume │
-            └─────────────────────┘
+🌐 Open Website
+       ↓
+📝 Enter Your Details
+       ↓
+🎓 Add Education
+       ↓
+💼 Add Experience
+       ↓
+💻 Add Skills & Projects
+       ↓
+📄 Create Resume
+```
+
+Simple. Fast. Easy. 🚀
+
+---
+
+# 📸 Project Screenshots
+
+> Replace the image names below with your actual screenshot filenames.
+
+### 🏠 Home Page
+
+<img src="https://github.com/OWNER/REPOSITORY/blob/main/images/home.png">
+
+---
+
+### 📝 Resume Details Page
+
+<img src="https://github.com/OWNER/REPOSITORY/blob/main/images/details.png">
+
+---
+
+### 📄 Resume Preview
+
+<img src="https://github.com/OWNER/REPOSITORY/blob/main/images/resume.png">
+
+---
+
+# 🎥 Live Demo
+
+🌐 **Website**
+
+> Add your deployed website link here.
+
+```text
+YOUR_LIVE_WEBSITE_LINK
 ```
 
 ---
 
-## 🛠️ Technologies Used
+# 📥 Download / Clone Project
 
-This project was developed using:
-
-| Technology | Usage                                       |
-| ---------- | ------------------------------------------- |
-| 🌐 HTML    | Website structure                           |
-| 🎨 CSS     | Styling and user interface                  |
-| 🐘 PHP     | Resume generation and backend functionality |
-
----
-
-## 📋 Resume Details
-
-Users can enter different types of information, including:
-
-### 👤 Personal Details
-
-* Full Name
-* Email
-* Phone Number
-* Address
-* Other personal information
-
-### 🎓 Education
-
-* School / College
-* Degree / Course
-* Year of completion
-* Marks / CGPA
-
-### 💼 Experience
-
-Experienced users can add:
-
-* Company Name
-* Job Position
-* Work Duration
-* Job Responsibilities
-* Professional Experience
-
-### 💻 Skills
-
-Users can add their technical and professional skills.
-
-### 🚀 Projects
-
-Users can include their academic or professional projects.
-
-### 🏆 Additional Information
-
-The resume can also include other relevant achievements and information.
-
----
-
-## 🚫 No Login Required
-
-One of the main features of this project is that **users do not need to create an account**.
-
-Simply:
-
-```text
-Visit Website → Enter Details → Create Resume
-```
-
-This makes the application quick and convenient, especially for users who need to create a resume immediately.
-
----
-
-## 👨‍💻 Team Members
-
-This project was created by two members:
-
-### 1. Shakitha13
-
-GitHub: **@shakitha13**
-
-### 2. prk_blogler_420
-
-GitHub: **@prk_blogler_420**
-
----
-
-## 📂 Project Structure
-
-```text
-Resume-Builder/
-│
-├── index.html
-├── css/
-│   └── style.css
-│
-├── php/
-│   ├── resume.php
-│   └── ...
-│
-├── images/
-│   └── ...
-│
-└── README.md
-```
-
-> The project structure may vary depending on the final implementation.
-
----
-
-## 🚀 Installation & Setup
-
-### Step 1 — Clone the Repository
+Clone the repository using:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/resume-builder.git
+git clone https://github.com/OWNER/REPOSITORY.git
 ```
 
-### Step 2 — Move the Project
+Then open the project in your local PHP server such as **XAMPP**.
 
-If you are using **XAMPP**, place the project inside:
+---
+
+# ⚙️ Installation
+
+### 1️⃣ Download XAMPP
+
+Install XAMPP and start:
+
+```text
+Apache
+```
+
+### 2️⃣ Clone the Repository
+
+Place the project inside:
 
 ```text
 C:\xampp\htdocs\
 ```
 
-For example:
+Example:
 
 ```text
 C:\xampp\htdocs\resume-builder
 ```
 
-### Step 3 — Start XAMPP
-
-Start:
-
-* Apache
-* MySQL (only if your project requires it)
-
-### Step 4 — Open the Website
+### 3️⃣ Start the Project
 
 Open your browser and visit:
 
@@ -217,68 +201,121 @@ Open your browser and visit:
 http://localhost/resume-builder/
 ```
 
-### Step 5 — Create Your Resume
+---
 
-Enter your information and use the Resume Builder to generate your resume.
+# 📂 Project Structure
+
+```text
+RESUME-BUILDER
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   └── ...
+│
+├── js/
+│   └── ...
+│
+├── php/
+│   └── ...
+│
+├── index.php
+├── resume.php
+├── form.php
+├── README.md
+└── ...
+```
+
+> The structure may vary depending on the final project files.
 
 ---
 
-## 🎯 Project Objective
+# 👨‍💻 Project Developers
 
-The main objective of this project is to create a **simple, accessible, and easy-to-use resume creation platform** that allows users to create resumes without requiring technical knowledge or registration.
+This project was developed collaboratively by:
 
----
+### 👨‍💻 Shakitha13
 
-## 🔮 Future Enhancements
-
-We plan to improve the project by adding features such as:
-
-* [ ] Multiple professional resume templates
-* [ ] Resume PDF download
-* [ ] Resume preview
-* [ ] More customization options
-* [ ] Responsive mobile design improvements
-* [ ] Dark mode
-* [ ] AI-powered resume suggestions
-* [ ] ATS-friendly resume templates
-* [ ] Resume editing and formatting options
-* [ ] More sections for professional resumes
+<a href="https://github.com/shakitha13">
+<img src="https://img.shields.io/badge/GitHub-shakitha13-black?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
-## 🤝 Contributing
+### 👨‍💻 PRK-blogler-420
 
-Contributions are welcome!
-
-If you have an idea that can improve the Resume Builder, feel free to:
-
-1. Fork this repository
-2. Create a new branch
-3. Make your changes
-4. Commit your changes
-5. Push the branch
-6. Create a Pull Request
+<a href="https://github.com/PRK-blogler-420">
+<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-black?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
-## ⭐ Support the Project
+# 🤝 Team Project
 
-If you like this project, please consider giving the repository a **⭐ Star** on GitHub.
+This Resume Builder was created as a **two-member collaborative project**.
 
-Your support motivates us to continue improving the project!
+```text
+        📄 RESUME BUILDER
+               │
+       ┌───────┴───────┐
+       │               │
+       ▼               ▼
+  👨‍💻 Shakitha13   👨‍💻 PRK-blogler-420
+       │               │
+       └───────┬───────┘
+               ▼
+        🚀 Final Project
+```
 
 ---
 
-## 📜 License
+# 🔮 Future Enhancements
 
-This project is available for educational and personal use.
+* [ ] 📄 Download Resume as PDF
+* [ ] 🎨 Add Multiple Resume Templates
+* [ ] 👀 Live Resume Preview
+* [ ] 🌙 Dark Mode
+* [ ] 🤖 AI Resume Suggestions
+* [ ] 🔍 ATS-Friendly Resume Checking
+* [ ] 🌐 Multiple Language Support
+* [ ] 🎨 More Customization Options
+* [ ] 📱 Improved Mobile Experience
 
 ---
 
-## ❤️ Made By
+# 📈 GitHub Stats
 
-**Shakitha13** & **prk_blogler_420**
+<p align="center">
 
-### Resume Builder
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRK-blogler-420&theme=tokyonight"/>
 
-> **Build your resume. Showcase your skills. Start your career. 🚀**
+</p>
+
+---
+
+# 🌍 Connect With Us
+
+<p align="center">
+
+<a href="https://github.com/shakitha13">
+<img src="https://img.shields.io/badge/Shakitha13-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/PRK-blogler-420">
+<img src="https://img.shields.io/badge/PRK--blogler--420-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ If you like this project, don't forget to Star the Repository ⭐
+
+### 📄 Build Your Resume. 🚀 Build Your Future.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+
+</div>
